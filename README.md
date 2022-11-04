@@ -79,4 +79,4 @@ YOUTUBE VIDEOS
 Links to the Project
 The project was uploaded to GitHub at the following repository: https://github.com/Akshatha2022/02challengeCSS
 
-You can access the deployed application with the GitHup Pages link: https://akshatha2022.github.io/02challengeCSS/cd
+You can access the deployed application with the GitHup Pages link: https://akshatha2022.github.io/02ChallengeCSS/
